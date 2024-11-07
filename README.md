@@ -1,17 +1,6 @@
 # Dynamic-in-ts-linear-Model
-Here’s an updated **GitHub repository description** and **README file** that also includes the stable AR(1) model:
 
----
-
-### GitHub Repository Description:
-
-This repository demonstrates the creation, analysis, and estimation of both stable AR(1) and unstable AR(2) time series models using Python. The project includes generating both stable and unstable autoregressive time series, performing diagnostic tests for stability, estimating the parameters of AR(1) and AR(2) models, and visualizing the results. The repository provides a comprehensive approach to working with autoregressive models, including both stationary and non-stationary processes.
-
----
-
-### Updated README File:
-
-```markdown
+```
 # AR(1) and AR(2) Time Series Models
 
 This project demonstrates the creation, analysis, and estimation of both stable AR(1) and unstable AR(2) time series models using Python. The stable AR(1) model captures a stationary time series with a first-order autoregressive process, while the unstable AR(2) model demonstrates a fluctuating, oscillating process with higher-order autoregressive dynamics.
