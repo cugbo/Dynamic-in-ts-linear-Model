@@ -1,5 +1,3 @@
-Here’s a sample README that reflects the course structure based on the information in the image:
-
 ---
 
 # Econometrics (Advanced Level) - 2024/2025
@@ -52,9 +50,4 @@ A final research task will be required, encouraging students to apply the method
 - **Lectures** will cover theoretical foundations and mathematical derivations.
 - **Practical sessions** (if available) will include applied exercises and hands-on projects to reinforce concepts.
   
-## Notes
-Some materials are currently marked as "Not available" and will be uploaded as the course progresses.
-
 --- 
-
-This README gives an organized overview of the topics and structure of the course, based on the image's contents.
